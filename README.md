@@ -1,4 +1,4 @@
-# modui
+# modui-rails
 
 A Modern User Interface bundled in a Rails 3.1+ Engine.  It's incredibly lightweight and optimized for simple CRUD interfaces.
 
