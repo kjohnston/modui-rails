@@ -57,6 +57,7 @@ a.button:hover {
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#699fd0), to(#467cad));
   background-image: -moz-linear-gradient(top, #699fd0, #467cad);
   text-shadow: none;
+  cursor: pointer;
 }
 
 #header {
